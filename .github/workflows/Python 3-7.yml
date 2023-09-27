@@ -10,7 +10,7 @@ jobs:
   build:
     strategy:
       matrix:
-        python-version: 3
+        python-version: [3.7]
         os : [ubuntu-latest, windows-latest]
     runs-on: ${{matrix.os}}
 
