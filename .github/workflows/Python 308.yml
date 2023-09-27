@@ -1,4 +1,4 @@
-name: CI
+name: CI Python 3.8
 on:
   push:
     branches: [ "main" ]
@@ -10,7 +10,7 @@ jobs:
   build:
     strategy:
       matrix:
-        python-version: 3
+        python-version: [3.8]
         os : [ubuntu-latest, windows-latest]
     runs-on: ${{matrix.os}}
 
