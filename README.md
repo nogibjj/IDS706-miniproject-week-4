@@ -5,7 +5,6 @@
 [![CI Python 3.7](https://github.com/nogibjj/IDS706-miniproject-week-4/actions/workflows/Python%203-7.yml/badge.svg)](https://github.com/nogibjj/IDS706-miniproject-week-4/actions/workflows/Python%203-7.yml)
 
 [![CI Python 3.8](https://github.com/nogibjj/IDS706-miniproject-week-4/actions/workflows/Python%203-8.yml/badge.svg)](https://github.com/nogibjj/IDS706-miniproject-week-4/actions/workflows/Python%203-8.yml)
-![image](https://github.com/nogibjj/IDS706-miniproject-week-4/assets/40233836/4667b9ba-ad20-42f2-aa0f-9adfdb5de3b1)
 
 
 This is a Python template for Data Science projects with CI setup using GitHub Actions. It has all the standard libraries for a Data Science project.
